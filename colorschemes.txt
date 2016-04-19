@@ -1,0 +1,14 @@
+Colors:
+
+Purple blue
+#9999ff
+Orange
+#ff9900
+Purple
+#cc99cc
+Purple red
+#cc6666
+Beige
+#ffcc99
+Salmon
+#ff9966
